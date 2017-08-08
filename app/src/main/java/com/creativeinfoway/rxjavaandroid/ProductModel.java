@@ -45,7 +45,7 @@ public class ProductModel {
     public String getImageurl() {
         return imageurl;
     }
-
+//test
     public void setImageurl(String imageurl) {
         this.imageurl = imageurl;
     }
