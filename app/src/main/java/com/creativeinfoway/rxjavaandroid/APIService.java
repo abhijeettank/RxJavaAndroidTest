@@ -12,5 +12,5 @@ import retrofit2.http.GET;
 public interface APIService {
     @GET("/json")
     Observable<List<ProductModel>> getproductdata();
-
+//sas
 }
